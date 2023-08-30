@@ -1,6 +1,6 @@
 ## ```U̶S̶M̶A̶N̶-̶S̶E̶R̶```
 
-***1.ᴄʟɪᴄᴋ [ғᴏʀᴋ](https://github.com/Afx-Abu/Abu-MDfork)***
+***1.ᴄʟɪᴄᴋ [ғᴏʀᴋ](https://github.com/Afx-Abu/Abu-MD/fork)***
  
 > <b><s1> 2.sᴄᴀɴ ǫʀ ᴄᴏᴅᴇ </b></s1> 
 
