@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://i.imgur.com/HQYwqqf.jpeg">
-    <img alt="secktor docs" height="300" src="https://i.imgur.com/x6x2Q30.jpeg">
+    <img alt="secktor docs" height="300" src="https://i.imgur.com/HQYwqqf.jpeg">
     <h1 align="center"> U̶S̶M̶A̶N̶-̶S̶E̶R̶ </h1>
   </a>
 </p>  
